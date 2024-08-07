@@ -1,0 +1,20 @@
+header{
+    text-align: center;
+    padding-top: 20px;
+    
+}
+.container{
+    /* width: 90%; */
+}
+main{
+    background-color: #24353F;
+    height:100vh;
+}
+.display{
+    color: #fff;
+}
+
+.completed{
+    text-decoration: line-through;
+    opacity: 0.5;
+}
